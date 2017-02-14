@@ -1,6 +1,6 @@
 ---
 applications:
-- name: fbs-test
+- name: test-routes
   memory: 512M
   instances: 1
   host: demo-${random-word}
